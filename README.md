@@ -8,6 +8,6 @@ Shiny App for R package MECfda
 
 尝试能否调用不同的函数须给出不同的参数输入栏
 
-是否不仅输出$\beta(t)$的图像
+是否不仅输出 $\beta(t)$ 的图像
 
 增加没有标量型自变量的回归选项
